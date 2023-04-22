@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mehran-KC
-- 🌱 I’m currently learning Web programming (DJango & JavaScript)
+- 🌱 I’m currently learning ReactJS
 - 📫 https://www.linkedin.com/in/kasipour/
 -     T.me/ItIsMehran
 
